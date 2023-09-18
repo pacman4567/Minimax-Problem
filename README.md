@@ -20,11 +20,13 @@ The solution to this problem uses a binary search algorithm to find the maximum 
    git clone https://github.com/your-username/maximum-minimization.git
    
 2. Compile the C++ code:
+ 
    ```bash
    g++ -o max_minimization max_minimization.cpp
    
 3. Create an input file (e.g., input.txt) with the input data.
 4. Run the program with the input file:
+   
     ```bash
    ./max_minimization < input.txt
 
