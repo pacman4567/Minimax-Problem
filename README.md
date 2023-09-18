@@ -19,11 +19,13 @@ The solution to this problem uses a binary search algorithm to find the maximum 
    ```bash
    git clone https://github.com/your-username/maximum-minimization.git
    
-1. Compile the C++ code:
+2. Compile the C++ code:
+   ```bash
    g++ -o max_minimization max_minimization.cpp
    
-2. Create an input file (e.g., input.txt) with the input data.
-3. Run the program with the input file:
+3. Create an input file (e.g., input.txt) with the input data.
+4. Run the program with the input file:
+    ```bash
    ./max_minimization < input.txt
 
-4. The program will output the indices of the two selected arrays, i and j.
+5. The program will output the indices of the two selected arrays, i and j.
