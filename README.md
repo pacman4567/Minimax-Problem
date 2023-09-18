@@ -31,3 +31,14 @@ The solution to this problem uses a binary search algorithm to find the maximum 
    ./max_minimization < input.txt
 
 5. The program will output the indices of the two selected arrays, i and j.
+
+
+Contributing
+
+Contributions are welcome! If you have any improvements or suggestions, please open an issue or create a pull request.
+
+The End!
+
+
+
+
